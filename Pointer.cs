@@ -28,7 +28,7 @@ namespace TestProject1
 
         }
 
-        public string getPoint(int punteggio1, int punteggio2)
+        public string getScore(int punteggio1, int punteggio2)
         {
             string result = "";
 

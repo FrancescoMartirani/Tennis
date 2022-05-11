@@ -23,7 +23,7 @@ namespace TestProject1
         public void Points(int punteggio1, int punteggio2, string expected)
         {
 
-            Assert.AreEqual(pointer.getPoint(punteggio1, punteggio2),expected);
+            Assert.AreEqual(pointer.getScore(punteggio1, punteggio2),expected);
         }
     }
 }
